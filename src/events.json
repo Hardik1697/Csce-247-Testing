@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Aladin",
+    "genre": "Fantsay",
+    "rating": "IMDB: 7\/10",
+    "description": "Aladdin is a 2019 American musical fantasy film produced by Walt Disney Pictures. Directed by Guy Ritchie, who co-wrote the screenplay with John August, it is a live-action adaptation of Disney's 1992 animated film of the same name, which itself is based on the eponymous tale from One Thousand and One Nights.",
+    "runtime": "128 minutes",
+    "id": "6443",
+    "type": "Movie"
+  },
+  {
+    "name": "Frozen 2",
+    "genre": "Musical",
+    "rating": "IMDB: 7\/10",
+    "description": "Elsa the Snow Queen has an extraordinary gift -- the power to create ice and snow. But no matter how happy she is to be surrounded by the people of Arendelle, Elsa finds herself strangely unsettled. After hearing a mysterious voice call out to her, Elsa travels to the enchanted forests and dark seas beyond her kingdom -- an adventure that soon turns into a journey of self-discovery.",
+    "runtime": "103 minutes",
+    "id": "6443",
+    "type": "Movie"
+  },
+  {
+    "name": "Play 1",
+    "genre": "comedy",
+    "rating": "8",
+    "description": "This is a sample play",
+    "runtime": "25 minutes",
+    "id": "4762",
+    "type": "Play"
+  }
+]

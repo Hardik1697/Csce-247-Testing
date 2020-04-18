@@ -1,0 +1,20 @@
+[
+    {
+    "movie": "Aladin",
+    "theater": "Regal",
+    "time": "12:15, 04\/22\/2020",
+    "type": "Movie"
+  },
+  {
+    "movie": "Frozen 2",
+    "theater": "AMC",
+    "time": "9:45, 04\/30\/2020",
+    "type": "Movie"
+  },
+  {
+    "movie": "Frozen Junior 2",
+    "theater": "PlaysRUs",
+    "time": "10:30, 04\/24\/2020",
+    "type": "Play"
+  }
+]

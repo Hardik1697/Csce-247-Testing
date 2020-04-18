@@ -1,0 +1,20 @@
+[
+  {
+    "seat": "A2",
+    "price": "9.0",
+    "time": "8:30, 04\/24\/2020",
+    "type": "Movie",
+    "theaterlocation": "3400 Forest Dr Suite 3000, Columbia, SC 29204",
+    "email": "ha2",
+    "moviename": "Aladin"
+  },
+  {
+    "seat": "A2",
+    "price": "10.0",
+    "time": "14:00, 04\/22\/2020",
+    "type": "Movie",
+    "theaterlocation": "3400 Forest Dr Suite 3000, Columbia, SC 29204",
+    "email": "3759",
+    "moviename": "Frozen 2"
+  }
+]

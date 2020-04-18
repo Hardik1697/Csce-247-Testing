@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="385ea240-470e-4571-b475-e7d689e3fb9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="299" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="This Class" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aNR8iWSnqlKzpwvpp1NzdW5XFU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="csce-247-fp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in csce-247-fp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="csce-247-fp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataLoader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="csce-247-fp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDataLoader" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataLoader.testLoadShowTimeMovie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="csce-247-fp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDataLoader" />
+      <option name="METHOD_NAME" value="testLoadShowTimeMovie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEvents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="csce-247-fp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEvents" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="JUnit.All in csce-247-fp" />
+        <item itemvalue="JUnit.TestDataLoader" />
+        <item itemvalue="JUnit.TestDataLoader.testLoadShowTimeMovie" />
+        <item itemvalue="JUnit.TestEvents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="385ea240-470e-4571-b475-e7d689e3fb9e" name="Default Changelist" comment="" />
+      <created>1586573907698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586573907698</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586584182310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586584182310" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587168037052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1587168037052" />
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586884198194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1586884198194" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586884436224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586884436224" />
+    <state x="577" y="167" key="FileChooserDialogImpl" timestamp="1586924354971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586924354971" />
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1587174882785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587174882785" />
+    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1587174882785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587174882785" />
+    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1587174882785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587174882785" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1587174882785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587174882785" />
+    <state width="1493" height="96" key="GridCell.Tab.1.bottom" timestamp="1587170480630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="96" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587170480630" />
+    <state width="1493" height="96" key="GridCell.Tab.1.center" timestamp="1587170480630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="96" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587170480630" />
+    <state width="1493" height="96" key="GridCell.Tab.1.left" timestamp="1587170480630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="96" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587170480630" />
+    <state width="1493" height="96" key="GridCell.Tab.1.right" timestamp="1587170480630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="96" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587170480630" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1586995435546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586995435546" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586851834615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1586851834615" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587166823960">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587166823960" />
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586902569817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1586902569817" />
+    <state x="163" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587006390780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="163" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1587006390780" />
+    <state x="109" y="425" width="738" height="354" key="find.popup" timestamp="1586905564956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="109" y="425" width="738" height="354" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586905564956" />
+    <state x="209" y="33" key="new project wizard" timestamp="1586645921038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586645921038" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1586851914614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586851914614" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587171063817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587171063817" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/csce247FinalProject$TestDataLoader.ic" NAME="TestDataLoader Coverage Results" MODIFIED="1587174317029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/csce247FinalProject$TestEvents.ic" NAME="TestEvents Coverage Results" MODIFIED="1587089056415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/csce247FinalProject$All_in_csce_247_fp.ic" NAME="All in csce-247-fp Coverage Results" MODIFIED="1587174333600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

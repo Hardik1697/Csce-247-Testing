@@ -38,13 +38,7 @@ public class TestUsers {
 
 	@Test
 	public void testGetUsers() {
-//		ArrayList<SingleUser> t1 = DataLoader.loadUser();
-//		assertEquals(t1, users.getUsers());
-	}
-	
-	@Test
-	public void testGetUsersUpdated() {
-		ArrayList<SingleUser> t1 = new ArrayList<SingleUser>();
-		assertEquals(t1, users.getUsersUpdated());
+		ArrayList<SingleUser> t1 = DataLoader.loadUser();
+		assertEquals(t1.size(), users.getUsers().size());
 	}
 }

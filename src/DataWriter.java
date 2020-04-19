@@ -235,7 +235,7 @@ public class DataWriter extends DataConstants {
     ticketMovieDetails.put(TICKET_EMAIL, ticketMovie.getEmail());
     ticketMovieDetails.put(TICKET_TYPE, ticketMovie.getType());
     ticketMovieDetails.put(TICKET_MOVIE_NAME, ticketMovie.getMovieName());
-    ticketMovieDetails.put(TICKET_THEATER_LOCATION, ticketMovie.getTheaterName());
+    ticketMovieDetails.put(TICKET_THEATER_NAME, ticketMovie.getTheaterName());
     ticketMovieDetails.put(TICKET_THEATER_LOCATION, ticketMovie.getTheaterLocation());
     ticketMovieDetails.put(TICKET_SEAT, ticketMovie.getSeat());
     ticketMovieDetails.put(TICKET_PRICE, ticketMovie.getPrice());

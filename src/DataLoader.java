@@ -15,7 +15,8 @@ public class DataLoader extends DataWriter {
 
   /**
    * This method takes in a String param and returns a boolean value, if the param
-   * matches the email field in the user JSON file.
+   * matches the email field in the user JSON file.Used by create user to check if the
+   * email used exists or not.
    * @param email_user
    * @return
    */

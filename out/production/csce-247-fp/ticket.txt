@@ -1,0 +1,8 @@
+*********FilmBooker*********
+Name: Aladin
+Theater Name: Regal
+Theater Location: 3400 Forest Dr Suite 3000, Columbia, SC 29204
+Show Time: 12:15, 04/22/2020
+Seat Number: A2
+Price: 9.0
+*********FilmBooker*********

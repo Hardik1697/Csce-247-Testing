@@ -8,4 +8,3 @@
 #### The Data classes directly take input from the respective json file, and if modified, the data loaded into the test methods will from vary what we have built the test method for, and hence, result in failing.
 #### The modified data will result into maually entering the data into the test classes, as the tests load the data from the json files.
 
-### Note that the coverage is only 68%, but due to the structure of our program, many methods are console based, and can not be tested as they print out information to the console. The coverage for non-console based methods is estimated to be around 85-90%.
